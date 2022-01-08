@@ -53,7 +53,7 @@ public class Client {
 //            System.out.println(chocolateIceCream);
 //        }
 
-        System.out.print("Ice cream of your choice is "+ iceCream.getIceCreamName());
+        System.out.print("Ice cream of your choice is maybe"+ iceCream.getIceCreamName());
         System.out.println(iceCream);
 
         System.out.println("Lessons Learnt");
